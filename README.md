@@ -15,4 +15,12 @@ This project should help manage a scout Group. It will aimed at the UK acout ass
 * Trip planner
 * GDPR regs
 * Power website
-* Child data
+* Child/parent data
+* leader data
+* Audit/Email on open for some details
+* docker-compsoe
+  * Website
+  * LibreScout
+  * MariaDb (encrypt all scout data)
+  * Composer
+  * Email incoming/redirection (3rd party SMTP)
